@@ -1,0 +1,1 @@
+npm i dotenv discord-giveaways discord.js axios ms fs @discordjs/rest
